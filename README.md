@@ -1,3 +1,9 @@
+<h2 align="center">Hi there, I'm <a href="https://davron-react-lesson-4.netlify.app" target="_blank">Davron</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
+<h3 align="center">React web-developer student, IT news writer from Uzbekistan</h3>
+
+
+
 [Demo Link](https://davron-react-lesson-3.netlify.app)
 <br/>
 [Github Link](https://github.com/mDavron/scriptOne-academy-react-lesson-v3)
